@@ -24,18 +24,6 @@ function ATM() {
 
 
 
- // prasanje?  
 
-// dali moze vaka i dali e pravilno po return da ima console.log()  (16 linija)
-   
-// ili primer na :
-        
-//    else{
-
-//     return result 
-//     pa posle :  
-//                 
-                // let result = ATM()
-//                 console.log()           kosnolata da e tuka ?
 
 
