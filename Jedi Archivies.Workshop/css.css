@@ -1,0 +1,74 @@
+body {
+  background-image: url(https://i.pinimg.com/originals/6a/5c/af/6a5cafc0333bc51d953a22841441bf6d.jpg);
+   height: 100%;
+
+}
+#head{
+  background-image: url(https://media3.giphy.com/media/9bTjZrytydVRK/giphy.gif?cid=ecf05e47bkivzxfrykee68vao10xj5u9y6w4h6b6w4hfog61&rid=giphy.gif&ct=g);
+}
+
+#imgs {
+  display: flex;
+  margin: 5px;
+  justify-content: space-between;
+}
+#peoples {
+  opacity: 0.4;
+  transition: opacity 3s ease-out;
+  -moz-transition: opacity 3s ease-out;
+  -webkit-transition: opacity 3s ease-out;
+  -o-transition: opacity 3s ease-out;
+}
+#peoples:hover {
+  opacity: 1;
+}
+#ships {
+  opacity: 0.4;
+  transition: opacity 3s ease-out;
+  -moz-transition: opacity 3s ease-out;
+  -webkit-transition: opacity 3s ease-out;
+  -o-transition: opacity 3s ease-out;
+}
+#ships:hover {
+  opacity: 1;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+  width: 40%;
+  opacity: 0.4;
+  transition: opacity 3s ease-out;
+  -moz-transition: opacity 3s ease-out;
+  -webkit-transition: opacity 3s ease-out;
+  -o-transition: opacity 3s ease-out;
+}
+#logo:hover {
+  opacity: 1;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  height: 600px;
+  width: 600px;
+}
+td,
+th {
+  border: 2px solid #f0d106;
+  text-align: center;
+  padding: 8px;
+  color: #dddddd;
+}
+
+BUTTON {
+  display: inline-flex; 
+  margin-left:50px;
+  text-align: center;
+  font-size: 15px;
+  position: flex;
+  margin-left: 40%;
+} 
+
